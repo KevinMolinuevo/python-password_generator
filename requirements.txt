@@ -1,0 +1,9 @@
+Create  a password generator
+    -Allows users to create password   (80 points)
+        -A user can pick how long min: 8 max: infinity
+        -It must have at least two capital letters, two symbols, two lowercase letters, two lowercase
+
+    -You must save what the password is for and what the password is the file in a text doc  (10 points)
+    -There must also be a option get a password for a what the password is made for(example you want input facebook and get the facebook password)   (10 points)
+
+    -Must use at least two functions
